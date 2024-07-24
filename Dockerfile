@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.11.9
 #FROM node:6-stretch
 
 RUN mkdir /usr/src/goof
